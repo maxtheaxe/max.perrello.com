@@ -45,6 +45,7 @@ li {
 a {
 	color: inherit;
 	text-decoration: inherit;
+	hover: #AAF0D1;
 }
 
 .left {
