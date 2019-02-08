@@ -1,0 +1,63 @@
+/*
+	index.css
+	max perrello's homepage
+*/
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.content {
+	display: flex;
+	text-align: left;
+	padding-top: 25vh;
+	padding-left: 8vw;
+}
+
+h1 {
+	font-size: 50pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	vertical-align: bottom;
+}
+
+h2 {
+	font-size: 35pt;
+	margin-top: 12pt;
+}
+
+.links {
+	color: #49BEA1;
+	font-size: 18pt;
+	font-weight: 600;
+	text-align: right;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+li {
+	padding-bottom: 15pt;
+}
+
+.left {
+	float: left;
+	padding-right: 25pt;
+	border-right: thick solid black;
+	vertical-align: middle;
+}
+
+.right {
+	float: left;
+	padding-left: 30pt;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.aboutme {
+	font-size: 15pt;
+	max-width: 500px;
+	color: #808080;
+}
