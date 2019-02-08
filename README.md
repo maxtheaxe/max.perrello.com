@@ -1,3 +1,3 @@
 # Max Perrello's Homepage
 
-Written from scratch
+Written from scratch, replaces [cntrlcntr.com](https://github.com/maxtheaxe/cntrlcntr.com)
