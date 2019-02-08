@@ -54,14 +54,14 @@ a:hover {
 
 .left {
 	float: left;
-	padding-right: 30pt;
+	padding-right: 25pt;
 	border-right: thick solid black;
 	vertical-align: middle;
 }
 
 .right {
 	float: left;
-	padding-left: 30pt;
+	padding-left: 25pt;
 	text-align: left;
 	vertical-align: middle;
 }
