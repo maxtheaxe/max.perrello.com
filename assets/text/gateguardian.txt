@@ -1,0 +1,29 @@
+I'm the first to encourage people to make a few bucks where they can, especially if they're helping educate people for a good cause, but
+it's not okay when people who have no idea what they're talking about, claim to, and try make money off of that.
+
+Let's look at the blurb about Signal as an example:
+
+"...Signal is pretty much a more open-sourced Telegram clone..."
+
+• First of all, as the successor to Red Phone and TextSecure, Signal was effectively created (in its early form) in 2010, while Pavel
+Durov (one of the founders of Telegram) was still well-entrenched as the CEO of VKontakte.
+
+• Second of all, calling Signal a Telegram clone is grossly disrespectful to the technology behind the former (Signal), as Signal's
+encryption protocol (the "Signal Protocol") is open source and well-vetted by the security community. On the other hand, Telegram uses a
+closed source protocol ("MTProto") that, as far as I understand it, is worse (don't forget that by default, Telegram doesn't use 
+end-to-end encryption). Read more about it here, from people who actually know what they're talking about:
+https://crypto.stackexchange.com/questions/31418/signal-vs-telegram-in-terms-of-protocols/37261#37261
+
+• Third, this doesn't even mention the general sketchiness behind Telegram's creation. Read about that here:
+https://www.washingtonpost.com/news/the-intersect/wp/2015/11/23/the-secret-american-origins-of-telegram-the-encrypted-messaging-app-favored-by-the-islamic-state/
+
+Also, one of their other mentions, KIK, is in the process of being shut down. One Google search would've turned this up, and as this
+article was posted today, it's clear the author didn't do any research. 
+
+I didn't even bother reading the other blurbs, there are better ways to waste my time.
+GateGuardian claims to be "your cyber privacy protector," but that's kinda tough to do if they have no idea what they're talking about.
+
+This kind of misinformation, even if not malicious, is really, really dangerous (for a plethora of reasons).
+
+Original article, for archival purposes:
+https://web.archive.org/web/20191001130155/https://www.gateguardian.com/say-no-to-whatsapp-alternatives-to-whatsapp-that-respect-your-privacy/
